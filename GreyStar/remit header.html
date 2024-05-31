@@ -1,0 +1,8 @@
+<h4>
+    <span class="color-cell-block u-greystar" style="border-radius: 10px; padding: 10px; border: 1px solid #ccc;">Remit
+        to Address</span>
+</h4>
+
+
+select 1 from GS_DOC_ATTACHMENTS
+where DOCTYP = 'OTHER' and REFNO = :P19_REG_REQUEST_ID_SUP and CREATED_BY = :APP_USER;

@@ -1,0 +1,28 @@
+url : https://u0jmsyrxzs4vcb5-apexadb1.adb.us-ashburn-1.oraclecloudapps.com/ords/r/apexapp-builder/home?fb_flow_id=129&f4000_p1_flow=129&p0_flowpage=129&recent_pages=session=4144901890103
+
+URL - https://u0jmsyrxzs4vcb5-apexadb1.adb.us-ashburn-1.oraclecloudapps.com/ords
+WorkSpaceName - XXAPEX
+UserName - JIGNESHKUMAR.PATEL
+Password - W3lcom3@1234
+
+Table Name :
+xxapex_ap_invoice_header
+xxapex_ap_invoice_lines
+
+
+GREY-STAR APEX URL
+
+https://ga4be0f22af2baf-ecexdev2atp.adb.us-ashburn-1.oraclecloudapps.com/ords/r/apex/workspace-sign-in/oracle-apex-sign-in?session=501447124431847
+
+# Workspace Credentials
+workspace: GREYSTAR
+user : jignesh.mansukhbhai  /   JIGNESH.MANSUKHBHAI
+pass :yWwiCK!jx77yJf    /   A7w4TF!E8AvMX
+
+user : SELVA.SUBRAMANIAN
+pass : yWwiCK!jx24yJf
+
+# Login 
+
+user : jignesh.mansukhbhai@greystar.com
+pass : Jignesh@123

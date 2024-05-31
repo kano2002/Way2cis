@@ -1,0 +1,18 @@
+SCHEMA	->	SOAPP
+
+
+select * from SOAPP_REG_SUPPLIERS               --
+select * from SOAPP_REG_SUPPLIER_ADDRESS
+select * from SOAPP_REG_SUPPLIER_CONTACTS
+select * from SOAPP_REG_SUPPLIER_PROFILES       --
+select * from SOAPP_REG_SUPPLIER_PAYMENTS
+select * from SOAPP_REG_SUPPLIER_TAX
+
+select * from GS_DOC_ATTACHMENTS
+
+select * from SOAPP_SUPPLIERS
+select * from SOAPP_SUPPLIER_ADDRESS
+select * from SOAPP_SUPPLIER_CONTACTS
+select * from SOAPP_SUPPLIER_PROFILES
+select * from SOAPP_SUPPLIER_PAYMENTS
+select * from SOAPP_SUPPLIER_TAX
