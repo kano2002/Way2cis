@@ -1,13 +1,3 @@
-url : https://u0jmsyrxzs4vcb5-apexadb1.adb.us-ashburn-1.oraclecloudapps.com/ords/r/apexapp-builder/home?fb_flow_id=129&f4000_p1_flow=129&p0_flowpage=129&recent_pages=session=4144901890103
-
-URL - https://u0jmsyrxzs4vcb5-apexadb1.adb.us-ashburn-1.oraclecloudapps.com/ords
-WorkSpaceName - XXAPEX
-UserName - JIGNESHKUMAR.PATEL
-Password - W3lcom3@1234
-
-Table Name :
-xxapex_ap_invoice_header
-xxapex_ap_invoice_lines
 
 
 GREY-STAR APEX URL
