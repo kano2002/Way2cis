@@ -8,6 +8,7 @@ select * from SOAPP_REG_SUPPLIER_PROFILES       --
 select * from SOAPP_REG_SUPPLIER_PAYMENTS
 select * from SOAPP_REG_SUPPLIER_TAX
 
+select * from SOAPP_SUPPLIERS_FAVOURITE
 select * from GS_DOC_ATTACHMENTS
 
 select * from SOAPP_SUPPLIERS
